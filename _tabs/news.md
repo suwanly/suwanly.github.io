@@ -13,6 +13,10 @@ layout: page
 
 ---
 
+**[2025.12]** 🏆 **CAU Engineering Conference** — Received the **Software University President's Award** (300,000 KRW).
+
+---
+
 **[2025.10]** 🎤 **EMNLP 2025 Oral** — *ToDi: Token-wise Distillation via Fine-Grained Divergence Control* accepted at EMNLP 2025 Main Track as an **Oral Presentation**.  
 🏅 Outstanding Paper Award Nominee (75 / 1,811 papers) · SAC 9/10 (top 15%)  
 🔗 [Paper @ACL Anthology](https://aclanthology.org/2025.emnlp-main.409/)
@@ -21,10 +25,6 @@ layout: page
 
 **[2025.10]** 🎤 **ICTC 2025 Oral** — *Towards Speed-Agnostic Time-Series Forecasting for Proactive Handover* accepted at ICTC 2025 as an **Oral Presentation**.
 🔗 [Paper @IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11388381)
-
----
-
-**[2025.12]** 🏆 **CAU Engineering Conference** — Received the **Software University President's Award** (300,000 KRW).
 
 ---
 
