@@ -3,6 +3,7 @@ title: News
 icon: fas fa-newspaper
 order: 2
 layout: page
+permalink: /news/
 ---
 
 ## 📰 News & Updates
