@@ -1,7 +1,8 @@
 ---
-title: Home
-icon: fas fa-home
+title: About Me
+icon: fas fa-user
 order: 1
+permalink: /about/
 ---
 
 <img src="/assets/img/dpd.jpeg" alt="Suwan Yoon" style="width:200px; border-radius:50%; float:left; margin: 0 20px 20px 0;" />
