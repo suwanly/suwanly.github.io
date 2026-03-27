@@ -9,7 +9,12 @@ layout: page
 
 ---
 
+**[2026.03]** 🎓 Started **M.S./Ph.D. Integrated Course** at **Korea University**, Actionable Intelligence Lab *(led by Prof. Changhee Lee)*.
+
+---
+
 **[2025.10]** 🎤 **EMNLP 2025 Oral** — *ToDi: Token-wise Distillation via Fine-Grained Divergence Control* accepted at EMNLP 2025 Main Track as an **Oral Presentation**.  
+🏅 Outstanding Paper Award Nominee (75 / 1,811 papers) · SAC 9/10 (top 15%)  
 🔗 [arXiv:2505.16297](https://doi.org/10.48550/arXiv.2505.16297)
 
 ---
@@ -18,7 +23,15 @@ layout: page
 
 ---
 
-**[2024.10]** 🏅 **DCSC 2024 Silver Prize** — *IMMU: IMage to MUsic Sequence for Social Network Service* received the **Student Paper Award (Silver Prize)** at DCSC 2024.  
+**[2025.06]** 🏆 **CAU Engineering Conference** — Received the **Software University President's Award** (300,000 KRW).
+
+---
+
+**[2025.01]** 🎓 **Junior Department Honor Scholarship** — Awarded **Full-Funded** scholarship for the 1st semester of junior year.
+
+---
+
+**[2024.10]** 🏅 **DCSC 2024 Silver Prize** — *IMMU: IMage to MUsic Sequence for Social Network Service* received the **Student Paper Award (Silver Prize)**.  
 🔗 [GitHub](https://github.com/suwanly/IMMU)
 
 ---
@@ -28,6 +41,14 @@ layout: page
 ---
 
 **[2024.01]** 🔬 Joined **Decision Intelligence Lab @ Chung-Ang University** as a Research Intern *(led by Prof. Changhee Lee)*.
+
+---
+
+**[2023.11]** 🎸 Founded **LAON** (Live at Our Night), student band at Dept. of AI, Chung-Ang University.
+
+---
+
+**[2023.06]** 🏆 **CCSSAA Idea-thon** — Third Prize (700,000 KRW) for the IMMU project.
 
 ---
 
