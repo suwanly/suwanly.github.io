@@ -9,6 +9,7 @@ permalink: /
 **Graduate Student** (M.S./Ph.D. Integrated) at the **Actionable Intelligence Lab**, Korea University.  
 Former undergraduate at the **Department of AI, Chung-Ang University** (CAU).
 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-suwanyoon-8B89CC?logo=google-scholar)](https://scholar.google.com/citations?user=I3tKCUoAAAAJ&hl=ko)
 [![GitHub](https://img.shields.io/badge/GitHub-suwanly-181717?logo=github)](https://github.com/suwanly)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suwan%20Yoon-0A66C2?logo=linkedin)](https://www.linkedin.com/in/suwan-yoon-20881b2a4/)
 [![Email](https://img.shields.io/badge/Email-suwanyoon@korea.ac.kr-8B89CC?logo=protonmail)](mailto:suwanyoon@korea.ac.kr)
