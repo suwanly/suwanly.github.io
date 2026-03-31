@@ -94,21 +94,21 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 
 **[Research] Collaboration w/ ETRI** *(2025.01 – 2025.12)*  
 Time-series forecasting for proactive mobile-device handover. Developing a domain-agnostic model robust to speed prediction under changing environments, cell-deployment-agnostic approaches invariant to feature permutation and resilient to missing features.  
-This project was presented at ICTC 2025.
+This project was presented at ICTC 2025.  
 `Time Series Forecasting` `Wireless Communications`
 
 ---
 
 **[Research] Embedding Space of VLM** *(2025.03 – 2025.07)*  
 Collaborated with Prof. Junhyuk Kim (CAU) on VLM for semantic segmentation. Proposed two novel losses (HNS, UAI) for fine-tuning CLIP and one metric (Unmix Rate) for evaluating CLIP Zero-shot semantic segmentation. Achieved **State-of-the-Art** on CLIP ZS3 task.  
-This project was presented at CAU Engineering Conference 2025.
+This project was presented at CAU Engineering Conference 2025.  
 `VLM` `Zero-Shot Segmentation` `Computer Vision`
 
 ---
 
 **[KYS — Keep Your Smile!](https://github.com/suwanly/KYS)**  
 Facial Emotion Recognition on Jetson Nano, optimized via pruning and quantization. Reports performance degradation trends caused by model compression on edge devices.  
-This project was presented at DCSC Fall 2025.
+This project was presented at DCSC Fall 2025.  
 `Embedded AI` `Model Pruning` `Quantization`
 
 ---
