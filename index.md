@@ -131,7 +131,7 @@ This project was presented at DCSC Fall 2024.
 
 | Year | Award |
 |------|-------|
-| 2025 | **CAU Engineering Conference** — Software University President's Award (300,000 KRW) |
+| 2025 | **CAU Engineering Conference** — Software University President's Award (400,000 KRW) |
 | 2025 | **Junior Department Honor Scholarship** — Full-Funded (1st Semester) |
 | 2024 | **DCSC Student Paper Award** — Silver Prize |
 | 2023 | **CCSSAA Idea-thon** — Third Prize (700,000 KRW) |
