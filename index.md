@@ -13,6 +13,7 @@ Former undergraduate at the **Department of AI, Chung-Ang University** (CAU).
 [![GitHub](https://img.shields.io/badge/GitHub-suwanly-181717?logo=github)](https://github.com/suwanly)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suwan%20Yoon-0A66C2?logo=linkedin)](https://www.linkedin.com/in/suwan-yoon-20881b2a4/)
 [![Email](https://img.shields.io/badge/Email-suwanyoon@korea.ac.kr-8B89CC?logo=protonmail)](mailto:suwanyoon@korea.ac.kr)
+[![CV](https://img.shields.io/badge/CV-View%20PDF-B31B1B?logo=adobeacrobatreader&logoColor=white)]({{ '/cv/' | relative_url }})
 
 <div style="clear:both;"></div>
 
