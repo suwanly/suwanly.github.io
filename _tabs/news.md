@@ -14,7 +14,7 @@ permalink: /news/
 
 ---
 
-**[2025.12]** 🏆 **CAU Engineering Conference** — Received the **Software University President's Award** (300,000 KRW).
+**[2025.12]** 🏆 **CAU Engineering Conference** — Received the **Software University President's Award** (400,000 KRW).
 
 ---
 
