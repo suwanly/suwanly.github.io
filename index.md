@@ -26,9 +26,10 @@ I'm **Suwan Yoon**, a graduate student in the **M.S./Ph.D. integrated course** a
 My work centers on:
 - **AI4Healthcare**
 - **AI4Science**
-- **Time-Series Analysis**
+- **LLMs**
 
 I also enjoy exploring theoretical areas, such as **Optimal Transport & Generative Modeling**.
+My previous work has centered on **time-series analysis**, **visual language models**, **multimodal VAEs**, and **knowledge distillation**.
 
 ---
 
@@ -71,15 +72,33 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 **ToDi: Token-wise Distillation via Fine-Grained Divergence Control**  
 📆 Oct 2025 — **EMNLP 2025 (Main, 🔴 Oral Presentation)**  
 **Authors:** Seongryong Jung, **_Suwan Yoon_**, DongGeon Kim, Hwanhee Lee  
-- 🏅 Outstanding Paper Award Nominee — only **75 / 1,811** papers nominated  
+- 🏅 Outstanding Paper Award Finalist — only **75 / 1,811** papers nominated
 - ⭐ Overall Rating: 4/5 &nbsp;|&nbsp; SAC: 9/10 (top **15%** of accepted papers)  
 🔗 [arXiv:2505.16297](https://doi.org/10.48550/arXiv.2505.16297)
+
+### Preprints
+
+**Agentic Molecular Recovery via Molecule-Aware Exploration**
+📆 Jun 2026
+**Authors:** **_Suwan Yoon_**, Changhee Lee
+
+🔗 [arXiv:2606.05847](https://arxiv.org/abs/2606.05847)
+
+---
+
+**Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values**
+📆 May 2026
+**Authors:** Seongjun Lee\*, **_Suwan Yoon_**\*, Changhee Lee
+
+🔗 [arXiv:2605.28170](https://arxiv.org/abs/2605.28170)
 
 ### Conference
 
 **Towards Speed-Agnostic Time-Series Forecasting for Proactive Handover**  
 📆 Oct 2025 — **ICTC 2025 (🔴 Oral Presentation)**  
 **Authors:** Junseo Lee\*, **_Suwan Yoon_**\*, Changhee Lee
+
+🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/11388381)
 
 ---
 
@@ -93,10 +112,20 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 
 ## 🚀 Projects
 
+**[Research] Biochemical Agentic AI** *(2025.11 – Present)*
+
+Developing LLM-driven agentic AI systems for biochemical discovery. This research explores LLMs as interfaces and reasoning engines that leverage intrinsic scientific knowledge to guide molecule-aware exploration, molecular generation, molecular recovery, and automated drug-discovery workflows.
+
+Supported by NIPA's Advanced GPU Utilization Support Program, the IITP AI Star Fellowship Support Program, and the 2026 AI Seoul Tech Research Support Program.
+
+`Agentic AI` `LLMs` `Molecular Generation` `Molecular Recovery` `Drug Discovery`
+
+---
+
 **[Research] Collaboration w/ ETRI** *(2025.01 – 2025.12)*  
 Time-series forecasting for proactive mobile-device handover. Developing a domain-agnostic model robust to speed prediction under changing environments, cell-deployment-agnostic approaches invariant to feature permutation and resilient to missing features.  
 This project was presented at ICTC 2025.  
-`Time Series Forecasting` `Wireless Communications`
+`Time Series Forecasting` `Wireless Communications` `ETRI`
 
 ---
 
@@ -132,6 +161,7 @@ This project was presented at DCSC Fall 2024.
 
 | Year | Award |
 |------|-------|
+| 2026 | **AI Seoul Tech Scholarship** — Seoul Future Foundation (20,000,000 KRW) |
 | 2025 | **CAU Engineering Conference** — Software University President's Award (400,000 KRW) |
 | 2025 | **Junior Department Honor Scholarship** — Full-Funded (1st Semester) |
 | 2024 | **DCSC Student Paper Award** — Silver Prize |

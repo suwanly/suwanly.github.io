@@ -10,6 +10,18 @@ permalink: /news/
 
 ---
 
+**[2026.06]** 📄 Preprint — *Agentic Molecular Recovery via Molecule-Aware Exploration* released on arXiv.
+
+🔗 [arXiv:2606.05847](https://arxiv.org/abs/2606.05847)
+
+---
+
+**[2026.05]** 📄 Preprint — *Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values* released on arXiv.
+
+🔗 [arXiv:2605.28170](https://arxiv.org/abs/2605.28170)
+
+---
+
 **[2026.03]** 🎓 Started **M.S./Ph.D. Integrated Course** at **Korea University**, Actionable Intelligence Lab *(led by Prof. Changhee Lee)*.
 
 ---
@@ -19,12 +31,14 @@ permalink: /news/
 ---
 
 **[2025.10]** 🎤 **EMNLP 2025 Oral** — *ToDi: Token-wise Distillation via Fine-Grained Divergence Control* accepted at EMNLP 2025 Main Track as an **Oral Presentation**.  
-🏅 Outstanding Paper Award Nominee (75 / 1,811 papers) · SAC 9/10 (top 15%)  
+🏅 Outstanding Paper Award Finalist (75 / 1,811 papers) · SAC 9/10 (top 15%)
+
 🔗 [Paper @ACL Anthology](https://aclanthology.org/2025.emnlp-main.409/)
 
 ---
 
 **[2025.10]** 🎤 **ICTC 2025 Oral** — *Towards Speed-Agnostic Time-Series Forecasting for Proactive Handover* accepted at ICTC 2025 as an **Oral Presentation**.
+
 🔗 [Paper @IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11388381)
 
 ---
