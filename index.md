@@ -78,7 +78,7 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 
 ### Preprints
 
-**Agentic Molecular Recovery via Molecule-Aware Exploration**
+**Agentic Molecular Recovery via Molecule-Aware Exploration**  
 📆 Jun 2026
 **Authors:** **_Suwan Yoon_**, Changhee Lee
 
@@ -86,7 +86,7 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 
 ---
 
-**Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values**
+**Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values**  
 📆 May 2026
 **Authors:** Seongjun Lee\*, **_Suwan Yoon_**\*, Changhee Lee
 
@@ -159,13 +159,13 @@ This project was presented at DCSC Fall 2024.
 
 ## 🏅 Scholarship & Awards
 
-| Year | Award |
-|------|-------|
-| 2026 | **AI Seoul Tech Scholarship** — Seoul Future Foundation (20,000,000 KRW) |
+| Year | Award                                                                                |
+| ---- | ------------------------------------------------------------------------------------ |
+| 2026 | **AI Seoul Tech Scholarship** — Seoul Future Foundation (20,000,000 KRW)             |
 | 2025 | **CAU Engineering Conference** — Software University President's Award (400,000 KRW) |
-| 2025 | **Junior Department Honor Scholarship** — Full-Funded (1st Semester) |
-| 2024 | **DCSC Student Paper Award** — Silver Prize |
-| 2023 | **CCSSAA Idea-thon** — Third Prize (700,000 KRW) |
+| 2025 | **Junior Department Honor Scholarship** — Full-Funded (1st Semester)                 |
+| 2024 | **DCSC Student Paper Award** — Silver Prize                                          |
+| 2023 | **CCSSAA Idea-thon** — Third Prize (700,000 KRW)                                     |
 
 ---
 
