@@ -7,6 +7,9 @@ permalink: /news/
 ---
 
 ## 📰 News & Updates
+---
+
+**[2026.06]** 🎓 **AI Seoul Tech Scholarship** — Awarded the **AI Seoul Tech Scholarship** for Agentic Molecular Recovery from Seoul Future Foundation (20,000,000 KRW).
 
 ---
 
