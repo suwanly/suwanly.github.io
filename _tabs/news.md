@@ -9,6 +9,11 @@ permalink: /news/
 ## 📰 News & Updates
 ---
 
+**[2026.07]** 🌏 **ICML 2026** — Suwan will be attending ICML 2026 in Seoul, South Korea, as a student volunteer.
+
+---
+
+
 **[2026.06]** 🎓 **AI Seoul Tech Scholarship** — Awarded the **AI Seoul Tech Scholarship** for Agentic Molecular Recovery from Seoul Future Foundation (20,000,000 KRW).
 
 ---
@@ -39,6 +44,11 @@ permalink: /news/
 🔗 [Paper @ACL Anthology](https://aclanthology.org/2025.emnlp-main.409/)
 
 ---
+
+**[2025.10]** 🌏 **EMNLP 2025** — Suwan will be attending EMNLP 2025 in Suzhou, China.
+
+---
+
 
 **[2025.10]** 🎤 **ICTC 2025 Oral** — *Towards Speed-Agnostic Time-Series Forecasting for Proactive Handover* accepted at ICTC 2025 as an **Oral Presentation**.
 
