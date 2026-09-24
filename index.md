@@ -37,6 +37,8 @@ My previous work has centered on **time-series analysis**, **visual language mod
 
 **Korea University** — *M.S./Ph.D. Integrated Course in Artificial Intelligence*  
 📆 Mar 2026 – Present  
+GPA: 4.5 / 4.5 (Major: 4.29 / 4.5)  
+Coursework: (Advanced) Generative AI, NLP, Advanced Healthcare AI, etc...  
 *(Actionable Intelligence Lab, led by Prof. Changhee Lee)*
 
 ---
@@ -68,13 +70,21 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 ## 🧾 Publications
 
 ### Top-Tier Conference
+**Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values**  
+📆 May 2026 — **NeurIPS 2026**  
+**Authors:** Seongjun Lee\*, **_Suwan Yoon_**\*, Changhee Lee  
+🔗 [arXiv:2605.28170](https://arxiv.org/abs/2605.28170)
+
+---
 
 **ToDi: Token-wise Distillation via Fine-Grained Divergence Control**  
 📆 Oct 2025 — **EMNLP 2025 (Main, 🔴 Oral Presentation)**  
 **Authors:** Seongryong Jung, **_Suwan Yoon_**, DongGeon Kim, Hwanhee Lee  
 - 🏅 Outstanding Paper Award Finalist — only **75 / 1,811** papers nominated
 - ⭐ Overall Rating: 4/5 &nbsp;|&nbsp; SAC: 9/10 (top **15%** of accepted papers)  
+
 🔗 [arXiv:2505.16297](https://doi.org/10.48550/arXiv.2505.16297)
+
 
 ### Preprints
 
@@ -84,15 +94,7 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 
 🔗 [arXiv:2606.05847](https://arxiv.org/abs/2606.05847)
 
----
-
-**Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values**  
-📆 May 2026
-**Authors:** Seongjun Lee\*, **_Suwan Yoon_**\*, Changhee Lee
-
-🔗 [arXiv:2605.28170](https://arxiv.org/abs/2605.28170)
-
-### Conference
+### Conferences
 
 **Towards Speed-Agnostic Time-Series Forecasting for Proactive Handover**  
 📆 Oct 2025 — **ICTC 2025 (🔴 Oral Presentation)**  
@@ -161,7 +163,7 @@ This project was presented at DCSC Fall 2024.
 
 | Year | Award                                                                                |
 | ---- | ------------------------------------------------------------------------------------ |
-| 2026 | **AI Seoul Tech Scholarship** — Seoul Future Foundation (20,000,000 KRW)             |
+| 2026 | **AI Seoul Tech Research Fellowship** — Seoul Future Foundation (20,000,000 KRW)             |
 | 2025 | **CAU Engineering Conference** — Software University President's Award (400,000 KRW) |
 | 2025 | **Junior Department Honor Scholarship** — Full-Funded (1st Semester)                 |
 | 2024 | **DCSC Student Paper Award** — Silver Prize                                          |

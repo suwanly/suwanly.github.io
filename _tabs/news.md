@@ -9,6 +9,15 @@ permalink: /news/
 ## 📰 News & Updates
 ---
 
+**[2026.12]** 🌏 **NeurIPS 2026** — Suwan will be attending NeurIPS 2026.
+
+---
+
+**[2026.09]** 🎤 **NeurIPS 2026** — *Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values* accepted at NeurIPS 2025.  
+🔗 [Paper @arXiv](https://arxiv.org/abs/2605.28170)
+
+---
+
 **[2026.07]** 🌏 **ICML 2026** — Suwan will be attending ICML 2026 in Seoul, South Korea, as a student volunteer.
 
 ---
