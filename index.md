@@ -81,7 +81,6 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 📆 Oct 2025 — **EMNLP 2025 (Main, 🔴 Oral Presentation)**  
 **Authors:** Seongryong Jung, **_Suwan Yoon_**, DongGeon Kim, Hwanhee Lee  
 - 🏅 Outstanding Paper Award Finalist — only **75 / 1,811** papers nominated
-- ⭐ Overall Rating: 4/5 &nbsp;|&nbsp; SAC: 9/10 (top **15%** of accepted papers)  
 
 🔗 [arXiv:2505.16297](https://doi.org/10.48550/arXiv.2505.16297)
 

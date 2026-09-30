@@ -9,7 +9,7 @@ permalink: /news/
 ## 📰 News & Updates
 ---
 
-**[2026.12]** 🌏 **NeurIPS 2026** — Suwan will be attending NeurIPS 2026.
+**[2026.12]** 🌏 **NeurIPS 2026** — Suwan will be attending NeurIPS 2026 to present *Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values*.
 
 ---
 
