@@ -37,7 +37,7 @@ My previous work has centered on **time-series analysis**, **visual language mod
 
 **Korea University** — *M.S./Ph.D. Integrated Course in Artificial Intelligence*  
 📆 Mar 2026 – Present  
-GPA: 4.5 / 4.5 (Major: 4.29 / 4.5)  
+GPA: 4.5 / 4.5 (Major: 4.5 / 4.5)  
 Coursework: (Advanced) Generative AI, NLP, Advanced Healthcare AI, etc...  
 *(Actionable Intelligence Lab, led by Prof. Changhee Lee)*
 
