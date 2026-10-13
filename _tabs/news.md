@@ -13,6 +13,13 @@ permalink: /news/
 
 ---
 
+**[2026.10]** 📄 Preprint — *Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization* will be released on arXiv.  
+This is my second paper on LLM post-training with Seongryoung—what a brilliant researcher! We’re pushing the boundaries of LLM post-training together!
+
+🔗 [arXiv](---)
+
+---
+
 **[2026.09]** 🎤 **NeurIPS 2026** — *Localizing Input Uncertainty Quantification for Large Language Models via Shapley Values* accepted at NeurIPS 2025.  
 🔗 [Paper @arXiv](https://arxiv.org/abs/2605.28170)
 

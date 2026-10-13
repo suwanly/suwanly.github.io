@@ -9,13 +9,13 @@ permalink: /cv/
 ## Curriculum Vitae
 
 <p>
-  <a href="{{ '/assets/RenderCV_EngineeringResumes_Theme-6.pdf' | relative_url }}" target="_blank" rel="noopener">
+  <a href="{{ '/assets/RenderCV_EngineeringResumes_Theme-17.pdf' | relative_url }}" target="_blank" rel="noopener">
     Open CV as PDF
   </a>
 </p>
 
 <iframe
-  src="{{ '/assets/RenderCV_EngineeringResumes_Theme-6.pdf' | relative_url }}"
+  src="{{ '/assets/RenderCV_EngineeringResumes_Theme-17.pdf' | relative_url }}"
   title="Suwan Yoon CV"
   width="100%"
   height="900"
@@ -23,6 +23,6 @@ permalink: /cv/
 >
   <p>
     Your browser cannot display this PDF inline.
-    <a href="{{ '/assets/RenderCV_EngineeringResumes_Theme-6.pdf' | relative_url }}">Open the CV PDF</a>.
+    <a href="{{ '/assets/RenderCV_EngineeringResumes_Theme-17.pdf' | relative_url }}">Open the CV PDF</a>.
   </p>
 </iframe>
