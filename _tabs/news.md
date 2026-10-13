@@ -16,7 +16,7 @@ permalink: /news/
 **[2026.10]** 📄 Preprint — *Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization* will be released on arXiv.  
 This is my second paper on LLM post-training with Seongryoung—what a brilliant researcher! We’re pushing the boundaries of LLM post-training together!
 
-🔗 [arXiv](---)
+arXiv link coming soon.
 
 ---
 
