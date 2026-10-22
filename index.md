@@ -91,7 +91,7 @@ Coursework: Linear Algebra, Algorithm, Pattern Recognition, Machine Learning, Ne
 📆 Oct 2026  
 **Authors:** **_Suwan Yoon_\***, Seongryong Jung\*, Changhee Lee
 
-🔗 [arXiv:2606.05847](https://arxiv.org/abs/2610.25973)
+🔗 [arXiv:2610.25973](https://arxiv.org/abs/2610.25973)
 
 **Agentic Molecular Recovery via Molecule-Aware Exploration**  
 📆 Jun 2026  
